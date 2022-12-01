@@ -151,7 +151,7 @@ class _MyCartState extends State<MyCart> {
               icon: Icon(_all
                   ? Icons.check_box_rounded
                   : Icons.check_box_outline_blank),
-              label: const Text("Tất cả"),
+              label: const Text("Tất cảaaa"),
             ),
             Expanded(
                 child: Padding(
